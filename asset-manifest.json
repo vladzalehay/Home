@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myReactProjectCV/static/css/main.e6ae9259.chunk.css",
+    "main.css": "/myReactProjectCV/static/css/main.da288448.chunk.css",
     "main.js": "/myReactProjectCV/static/js/main.9daf531b.chunk.js",
     "main.js.map": "/myReactProjectCV/static/js/main.9daf531b.chunk.js.map",
     "runtime-main.js": "/myReactProjectCV/static/js/runtime-main.32af3034.js",
@@ -8,9 +8,9 @@
     "static/js/2.747cd721.chunk.js": "/myReactProjectCV/static/js/2.747cd721.chunk.js",
     "static/js/2.747cd721.chunk.js.map": "/myReactProjectCV/static/js/2.747cd721.chunk.js.map",
     "index.html": "/myReactProjectCV/index.html",
-    "precache-manifest.d4be68c422e424ec38433633cb16338a.js": "/myReactProjectCV/precache-manifest.d4be68c422e424ec38433633cb16338a.js",
+    "precache-manifest.fcbc0a52e80d55a5622a10521cadb02a.js": "/myReactProjectCV/precache-manifest.fcbc0a52e80d55a5622a10521cadb02a.js",
     "service-worker.js": "/myReactProjectCV/service-worker.js",
-    "static/css/main.e6ae9259.chunk.css.map": "/myReactProjectCV/static/css/main.e6ae9259.chunk.css.map",
+    "static/css/main.da288448.chunk.css.map": "/myReactProjectCV/static/css/main.da288448.chunk.css.map",
     "static/js/2.747cd721.chunk.js.LICENSE.txt": "/myReactProjectCV/static/js/2.747cd721.chunk.js.LICENSE.txt",
     "static/media/Fobos.jpg": "/myReactProjectCV/static/media/Fobos.828d51f5.jpg",
     "static/media/Therad100.jpg": "/myReactProjectCV/static/media/Therad100.b863af80.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.32af3034.js",
     "static/js/2.747cd721.chunk.js",
-    "static/css/main.e6ae9259.chunk.css",
+    "static/css/main.da288448.chunk.css",
     "static/js/main.9daf531b.chunk.js"
   ]
 }
