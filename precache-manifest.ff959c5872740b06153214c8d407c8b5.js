@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a8f944cbab865142dfc6b12610a2cdd",
+    "revision": "8ce309fe0f112b92dd065731000c7300",
     "url": "/myReactProjectCV/index.html"
   },
   {
-    "revision": "6ddb511a1d5fec40ad07",
-    "url": "/myReactProjectCV/static/css/main.c7c8608d.chunk.css"
+    "revision": "d1f2d9fd448781c162d3",
+    "url": "/myReactProjectCV/static/css/main.11bda9b2.chunk.css"
   },
   {
-    "revision": "81eb023ee781efb3ff6f",
-    "url": "/myReactProjectCV/static/js/2.286416a9.chunk.js"
+    "revision": "fdd49b758c8989c7484a",
+    "url": "/myReactProjectCV/static/js/2.33964c55.chunk.js"
   },
   {
     "revision": "8d0df6a9f6b2d88ac068d142fd4b4030",
-    "url": "/myReactProjectCV/static/js/2.286416a9.chunk.js.LICENSE.txt"
+    "url": "/myReactProjectCV/static/js/2.33964c55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ddb511a1d5fec40ad07",
-    "url": "/myReactProjectCV/static/js/main.0470d445.chunk.js"
+    "revision": "d1f2d9fd448781c162d3",
+    "url": "/myReactProjectCV/static/js/main.b818def5.chunk.js"
   },
   {
     "revision": "ffdbb6583d0f3fc7760e",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "828d51f5bbda9bee1d844ee06f181309",
     "url": "/myReactProjectCV/static/media/Fobos.828d51f5.jpg"
+  },
+  {
+    "revision": "77813a440cc1841ce31cfe45caa7c43c",
+    "url": "/myReactProjectCV/static/media/Test_platform.77813a44.jpg"
   },
   {
     "revision": "b863af801a3e2018a4f17d6c62f662f2",

@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/myReactProjectCV/static/css/main.c7c8608d.chunk.css",
-    "main.js": "/myReactProjectCV/static/js/main.0470d445.chunk.js",
-    "main.js.map": "/myReactProjectCV/static/js/main.0470d445.chunk.js.map",
+    "main.css": "/myReactProjectCV/static/css/main.11bda9b2.chunk.css",
+    "main.js": "/myReactProjectCV/static/js/main.b818def5.chunk.js",
+    "main.js.map": "/myReactProjectCV/static/js/main.b818def5.chunk.js.map",
     "runtime-main.js": "/myReactProjectCV/static/js/runtime-main.32af3034.js",
     "runtime-main.js.map": "/myReactProjectCV/static/js/runtime-main.32af3034.js.map",
-    "static/js/2.286416a9.chunk.js": "/myReactProjectCV/static/js/2.286416a9.chunk.js",
-    "static/js/2.286416a9.chunk.js.map": "/myReactProjectCV/static/js/2.286416a9.chunk.js.map",
+    "static/js/2.33964c55.chunk.js": "/myReactProjectCV/static/js/2.33964c55.chunk.js",
+    "static/js/2.33964c55.chunk.js.map": "/myReactProjectCV/static/js/2.33964c55.chunk.js.map",
     "index.html": "/myReactProjectCV/index.html",
-    "precache-manifest.4f8b4754e834b3ff672e6300be7765af.js": "/myReactProjectCV/precache-manifest.4f8b4754e834b3ff672e6300be7765af.js",
+    "precache-manifest.ff959c5872740b06153214c8d407c8b5.js": "/myReactProjectCV/precache-manifest.ff959c5872740b06153214c8d407c8b5.js",
     "service-worker.js": "/myReactProjectCV/service-worker.js",
-    "static/css/main.c7c8608d.chunk.css.map": "/myReactProjectCV/static/css/main.c7c8608d.chunk.css.map",
-    "static/js/2.286416a9.chunk.js.LICENSE.txt": "/myReactProjectCV/static/js/2.286416a9.chunk.js.LICENSE.txt",
+    "static/css/main.11bda9b2.chunk.css.map": "/myReactProjectCV/static/css/main.11bda9b2.chunk.css.map",
+    "static/js/2.33964c55.chunk.js.LICENSE.txt": "/myReactProjectCV/static/js/2.33964c55.chunk.js.LICENSE.txt",
     "static/media/Fobos.jpg": "/myReactProjectCV/static/media/Fobos.828d51f5.jpg",
+    "static/media/Test_platform.jpg": "/myReactProjectCV/static/media/Test_platform.77813a44.jpg",
     "static/media/Therad100.jpg": "/myReactProjectCV/static/media/Therad100.b863af80.jpg",
     "static/media/Therad200.jpg": "/myReactProjectCV/static/media/Therad200.44c10b88.jpg",
     "static/media/Therad300.jpg": "/myReactProjectCV/static/media/Therad300.7f2a2917.jpg",
@@ -20,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.32af3034.js",
-    "static/js/2.286416a9.chunk.js",
-    "static/css/main.c7c8608d.chunk.css",
-    "static/js/main.0470d445.chunk.js"
+    "static/js/2.33964c55.chunk.js",
+    "static/css/main.11bda9b2.chunk.css",
+    "static/js/main.b818def5.chunk.js"
   ]
 }
